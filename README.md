@@ -7,7 +7,7 @@ Nodejs >= 14
 ### Install
 Clone the source code:
 ```shell
-$> git clone https://github.com/@crescendocat/electron-template
+$> git clone https://github.com/crescendoCat/electron-template.git
 $> cd electron-template
 ```
 
